@@ -3,3 +3,10 @@ inputs/malaria_dataset/cell_images/train
 inputs/malaria_dataset/cell_images/validation
 jupyter_notebooks
 README.md
+.gitpod.dockerfile
+.gitpod.yml
+app_pages/__pycache__/*
+__pycache__/
+*.pyc
+*.pyo
+kaggle.json
