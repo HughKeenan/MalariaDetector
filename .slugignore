@@ -1,8 +1,5 @@
-*.psd
-*.pdf
-/test
-/spec
-/features
-/doc
-/public
-/README.md
+inputs/malaria_dataset/cell_images/test
+inputs/malaria_dataset/cell_images/train
+inputs/malaria_dataset/cell_images/validation
+jupyter_notebooks
+README.md
